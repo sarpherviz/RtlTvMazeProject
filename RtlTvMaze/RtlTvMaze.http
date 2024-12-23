@@ -1,0 +1,6 @@
+@RtlTvMaze_HostAddress = http://localhost:5206
+
+GET {{RtlTvMaze_HostAddress}}/tvshows/search
+Accept: application/json
+
+###
