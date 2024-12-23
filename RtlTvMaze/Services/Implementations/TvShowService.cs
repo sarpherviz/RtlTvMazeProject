@@ -1,5 +1,3 @@
-
-using RtlTvMaze.Data;
 using RtlTvMaze.Domain;
 using RtlTvMaze.Model;
 using RtlTvMaze.Repository.Interface;

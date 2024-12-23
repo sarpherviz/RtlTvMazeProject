@@ -1,14 +1,9 @@
-using RtlTvMaze.Data;
 using RtlTvMaze.Services;
 using RtlTvMaze.Services.Implementations;
-using MongoDB.Driver;
 using RtlTvMaze.Data.Infrastructure;
 using RtlTvMaze.Repository.Interface;
 using RtlTvMaze.Repository;
 using Hangfire;
-using Hangfire.Mongo;
-using Hangfire.Mongo.Migration.Strategies;
-using Hangfire.Mongo.Migration.Strategies.Backup;
 using RtlTvMaze.BackgroundService.Interface;
 using RtlTvMaze.BackgroundService;
 

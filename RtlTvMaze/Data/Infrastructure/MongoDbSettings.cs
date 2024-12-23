@@ -1,4 +1,3 @@
-using System;
 namespace RtlTvMaze.Data.Infrastructure
 {
     public class MongoDbSettings

@@ -1,5 +1,4 @@
-﻿using System;
-namespace RtlTvMaze.Domain.Interface
+﻿namespace RtlTvMaze.Domain.Interface
 {
     public interface IEntity
     {

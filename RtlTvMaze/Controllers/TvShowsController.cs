@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using RtlTvMaze.Domain;
 using RtlTvMaze.Model;
 using RtlTvMaze.Services;
 

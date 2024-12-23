@@ -1,4 +1,3 @@
-using RtlTvMaze.Domain;
 using RtlTvMaze.Model;
 
 namespace RtlTvMaze.Services

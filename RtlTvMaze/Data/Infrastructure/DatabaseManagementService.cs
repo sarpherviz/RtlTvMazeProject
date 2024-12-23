@@ -1,7 +1,3 @@
-using System;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Configuration;
-
 namespace RtlTvMaze.Data.Infrastructure
 {
     public static class DatabaseManagementService
